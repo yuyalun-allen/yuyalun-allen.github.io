@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Useful links"
 permalink: /links/
+---
 
 
 [Gmail](mail.google.com)
