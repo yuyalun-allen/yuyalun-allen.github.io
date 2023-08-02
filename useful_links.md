@@ -5,6 +5,6 @@ permalink: /links/
 ---
 
 
-[Gmail](mail.google.com)
-[Outlook](mail.outlook.com)
-[Scientific network](glados.rocks/console)
+[Gmail](https://mail.google.com)
+[Outlook](https://mail.outlook.com)
+[Scientific network](https://glados.rocks/console)
