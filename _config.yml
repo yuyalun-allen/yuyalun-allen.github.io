@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Host settings
 domain: yuyalun-allen.github.io       
 url: https://yuyalun-allen.github.io 
-baseurl: /blogs # the subpath of your site, e.g. /blog
+# baseurl: /blogs # the subpath of your site, e.g. /blog
 
 # Build settings
 theme: minima
