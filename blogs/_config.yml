@@ -20,13 +20,13 @@
 
 title: 余亚伦
 email: yuyalun.allen@gmail.com
+github_username:  yuyalun-allen
 description: >- # this means to ignore newlines until "baseurl:"
   欢迎来到余亚伦的个人主页！
 
 # Host settings
-domain: yuyalun-allen.github.io       
-url: https://yuyalun-allen.github.io 
-github_username:  yuyalun-allen
+# domain: yuyalun-allen.github.io       
+# url: https://yuyalun-allen.github.io 
 baseurl: /blogs # the subpath of your site, e.g. /blog
 
 # Build settings
