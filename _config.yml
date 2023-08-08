@@ -30,7 +30,7 @@ url: https://yuyalun-allen.github.io
 # baseurl: /blogs # the subpath of your site, e.g. /blog
 
 # Build settings
-theme: type-on-strap 
+theme: minima
 plugins:
   - jekyll-feed
 
