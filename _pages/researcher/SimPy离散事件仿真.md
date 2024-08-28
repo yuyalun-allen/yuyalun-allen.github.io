@@ -1,6 +1,5 @@
 ---
-layout: post
-catagories: 编程技术
+date: 2023.08.20
 ---
 
 > 最近需要使用离散事件仿真技术完成论文的实验部分，因此接触了这个领域的工具SimPy，这两天用起来的感觉确实可以实现仿真的整个过程。首先放上[官方文档](https://simpy.readthedocs.io/en/latest/)谨供参考，其次如果对仿真实例感兴趣可以看[我的代码](https://github.com/yuyalun-allen/ttl_discrete_sim)
