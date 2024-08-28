@@ -33,7 +33,7 @@ theme: jekyll-theme-satellite
 
 exclude:
   - _posts
-  - [vendor]
+  - vendor
 
 collections:
   pages:
